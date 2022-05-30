@@ -1,7 +1,3 @@
-from ast import main
-from unicodedata import name
-from unittest.loader import VALID_MODULE_NAME
-
 def multiply(a, b):
     return a*b
 
