@@ -1,7 +1,7 @@
-def multiply(a, b):
+def multiply(a:int,b: int)-> int:
     return a*b
 
-def myitmes():
+def myitmes()-> dict:
     return {
         'NRW':'Duesseldorf',
         'BWU':'Stuttgart',
